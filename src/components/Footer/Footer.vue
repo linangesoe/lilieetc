@@ -3,7 +3,6 @@
     <main class="m-auto pt-4 flex flex-col-reverse md:flex-row justify-between gap-2 md:gap-16 w-full max-w-[1666px] border-t">
       <section class="[&>p]:text-xs [&>p]:w-full [&>p]:py-[6px] [&>p]:text-center md:[&>p]:text-left [&>p>a]:text-slate-400">
         <p>LiNan图床 是 <a href="https://blog.liliee.cn" target="_blank" title="LiNan博客">LiNan博客</a> 稳定的永久存储服务。</p>
-        <p class="text-red-600">注意:上传违反中国大陆、香港及美国法律的图片将会直接删除，并封禁设备IP。</p>
         <p class="flex gap-2 justify-center md:justify-start">
           <a href="https://pages.cloudflare.com" target="_blank">
             <img
