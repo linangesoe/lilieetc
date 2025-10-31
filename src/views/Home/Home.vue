@@ -2,11 +2,6 @@
   <section class="Home pt-4 sm:pt-6">
     <Alert class="pt-0 pb-2 sm:py-4">
       <AlertTitle class="font-bold hidden sm:flex sm:gap-2"> <RocketIcon class="h-4 w-4 hidden sm:flex" /> Heads up!</AlertTitle>
-      <AlertDescription class="p-0 text-xs sm:text-sm">
-
-
-
-      </AlertDescription>
     </Alert>
 
     <!-- 工具栏 -->
